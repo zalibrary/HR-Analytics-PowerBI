@@ -19,4 +19,5 @@ This project analyzes HR data to identify employee demographics, attrition patte
 - Dashboard creation for HR insights
 
 ## Dashboard Preview
-![Dashboard](dashboard/HR_Report_Preview.png)
+![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-1.png)
+![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-2.png)
