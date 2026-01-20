@@ -1,6 +1,5 @@
 # HR Analytics Dashboard (Power BI)
 
-## Background
 This project analyzes HR data to identify employee demographics, attrition patterns, and workforce distribution to support HR decision-making.
 
 ## About Data
